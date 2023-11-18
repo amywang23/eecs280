@@ -1,0 +1,10 @@
+./euchre.exe pack.in noshuffle 3 Ivan Human Judea Human Kunle Human Liskov Human 
+Hand 0
+Ivan deals
+Jack of Diamonds turned up
+Human player Judea's hand: [0] Nine of Spades
+Human player Judea's hand: [1] Ten of Spades
+Human player Judea's hand: [2] Jack of Spades
+Human player Judea's hand: [3] King of Hearts
+Human player Judea's hand: [4] Ace of Hearts
+Human player Judea, please enter a suit, or "pass":
